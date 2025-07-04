@@ -13,3 +13,8 @@ Beyond RNNs, which excel at modeling temporal sequences, the project incorporate
 ## Objective
 
 The project presents an approach for automatic creation of musical compositions that preserve the structure and dynamics of piano music. It is primarily a basic exploration comparing autoregressive generative models and a GAN, trained on piano MIDI files to produce new musical pieces.
+
+Done by:
+
+Julio García Bustos
+Marcos Rosique Martínez
