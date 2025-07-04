@@ -14,7 +14,14 @@ Beyond RNNs, which excel at modeling temporal sequences, the project incorporate
 
 The project presents an approach for automatic creation of musical compositions that preserve the structure and dynamics of piano music. It is primarily a basic exploration comparing autoregressive generative models and a GAN, trained on piano MIDI files to produce new musical pieces.
 
-Done by:
+---
 
-Julio García Bustos
-Marcos Rosique Martínez
+**Note:** This project is intended to be run in **Google Colab** due to its computational requirements and dependencies.
+
+---
+
+## Done by:
+
+- Julio García Bustos  
+- Marcos Rosique Martínez
+
